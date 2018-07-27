@@ -73,12 +73,3 @@ public class ListArrayBasedPlus<T> extends ListArrayBased<T> {
 
 }
 
-// reverse
-
-// tostring
-
-// private resize overloaded add
-
-// toString() return any variable to sysouy.println(X) MyClass x =_ _ _ _;
-
-// overwritten add if(arrayisfull) -> resuze(); callsuper's add
