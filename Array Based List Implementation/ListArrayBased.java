@@ -1,17 +1,5 @@
 package List;
 
-
-
-/*
-* Purpose: Data Structure and Algorithms Lab 2 Problem 3
-* Status: Complete and thoroughly tested
-* Last update: 09/18/17
-* Submitted:  09/19/17
-* Comment: test suite and sample run attached
-* @author: John Stranahan
-* @version: 2017.09.18
-*/
-  
 public class ListArrayBased<T> implements ListInterface<T>
 {
 
